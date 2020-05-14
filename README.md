@@ -38,4 +38,3 @@ Use Simulink environment to develop and implement an obstacle avoiding robot tha
    1. When the obstacle is not found, display 'DC Motor RPM:' in the first line of LCD Display and an arbitrary constant(Eg:300) in the second line.
    2. When the Servo motor arm is rotated clockwise, display 'Turned Right.' in the second line of LCD Display with the first line displaying 'Alert!!'.
    3. When the Servo motor arm is rotated anti-clockwise, display 'Turned Left.' in the second line of LCD Display with the first line displaying 'Alert!!'.
-   ........
